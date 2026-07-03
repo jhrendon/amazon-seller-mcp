@@ -63,7 +63,7 @@ As of October 2023, Amazon SP-API no longer requires AWS IAM credentials. This s
 This project uses pnpm. If you have Corepack enabled, no setup is needed; otherwise run `npm i -g pnpm` first.
 
 ```bash
-git clone https://github.com/mansournorouzi/amazon-seller-mcp.git
+git clone https://github.com/jhrendon/amazon-seller-mcp.git
 cd amazon-seller-mcp
 pnpm install
 pnpm run build
